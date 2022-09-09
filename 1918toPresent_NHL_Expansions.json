@@ -29,7 +29,7 @@
 "challengeNoTrades":false,"challengeThanosMode":false,"daysLeft":0,"defaultStadiumCapacity":17500,"difficulty":0,"draftType":"nhl2017",
 "easyDifficultyInPast":false,"elam":false,"elamASG":true,"elamMinutes":4,"elamPoints":8,"equalizeRegions":false,"expansionDraft":{"phase":"setup"},"foulRateFactor":1,"foulsNeededToFoulOut":6,"foulsUntilBonus":[5,4,2],
 "gameOver":false,"godMode":false,"godModeInPast":false,"gracePeriodEnd":1920,"hardCap":true,"homeCourtAdvantage":1,"injuryRate":0.0001,"luxuryPayroll":100000,"luxuryTax":1.5,"maxContract":13000,"maxContractLength":5,
-"maxRosterSize":25,"minContract":500,"minContractLength":1,"minPayroll":60000,"minRosterSize":12,"numDraftRounds":4,"numGames":22,
+"maxRosterSize":25,"minContract":500,"minContractLength":1,"minPayroll":60000,"minRosterSize":12,"numDraftRounds":4,"numGames":82,
 "numPeriods":3,"numPlayersOnCourt":6,"numPlayoffByes":0,"numSeasonsFutureDraftPicks":4,"numTeams":4,"orbFactor":1,"otherTeamsWantToHire":false,"otl":[{"start":null,"value":true}],
 "pace":100,"phase":0,"playerMoodTraits":true,"playersRefuseToNegotiate":true,"pointsFormula":[{"start":null,"value":"2*W+OTL+T"}],"quarterLength":20,"realPlayerDeterminism":0,"rookieContractLengths":[3,2],"rookiesCanRefuse":true,
 "salaryCap":80000,"season":1918,"sonRate":0.02,"spectator":false,"startingSeason":1918,"stealFactor":1,"stopOnInjury":false,"stopOnInjuryGames":20,"threePointAccuracyFactor":1,"threePointTendencyFactor":1,"threePointers":true,
